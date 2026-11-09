@@ -45,7 +45,7 @@ An energy-efficient embedded systems project that automatically controls lightin
 | **LDR Module AO** | `A0` | Analog Input Pin |
 | **Relay Module VCC** | `5V` | System 5V Power Bus |
 | **Relay Module GND** | `GND` | Ground Bus |
-| **Relay Module IN** | `D2` | Digital Output Pin (Control) |
+| **Relay Module IN** | `13` | Digital Output Pin (Control) |
 
 > ⚠️ **Safety Warning:** When wiring mains AC electricity (110V/220V) to the relay module's `COM` and `NO` terminals, ensure all power sources are disconnected during assembly. Always insulate high-voltage connections.
 
